@@ -83,10 +83,11 @@ min t−DCF =min{βPcm (s)+Pcm(s)}
 If you use this repository, please consider citing:
 
 ```
-@inproceedings{Fu2021FastAudioAL,
+@article{Fu2021FastAudioAL,
   title={FastAudio: A Learnable Audio Front-End for Spoof Speech Detection},
   author={Quchen Fu and Zhongwei Teng and Jules White and M. Powell and Douglas C. Schmidt},
-  year={2021}
+  journal={ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2022}
 }
 ```
 
